@@ -1,1 +1,1 @@
-chapter2.txt for learning git and git hub.
+chapter2.txt for learning git and git hub in branch1.
